@@ -131,7 +131,7 @@ Edit the model in `api.js`:
 
 ```javascript
 const GEMINI_API = {
-    MODEL: 'gemini-1.5-flash',  // Change to 'gemini-1.5-pro' for better quality
+    MODEL: 'gemini-2.0-flash',  // Change to 'gemini-2.0-pro' for better quality
     // ...
 };
 ```
