@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=🚀+Live+on+Vercel;Click+to+Open+Website)](https://chat-bot-zeta-nine.vercel.app/)
+
+
 # Royal AI Chat - ChatGPT Clone
 
 A premium, royal-themed AI chat application powered by Google's Gemini API. Features elegant glassmorphism design, smooth animations, and support for both text and image inputs.
